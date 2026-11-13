@@ -1,0 +1,301 @@
+{"label":"SKILL","pattern":"Python"}
+{"label":"SKILL","pattern":"py"}
+{"label":"SKILL","pattern":"python3"}
+{"label":"SKILL","pattern":"python 3"}
+{"label":"SKILL","pattern":"python2"}
+{"label":"SKILL","pattern":"cpython"}
+{"label":"SKILL","pattern":"JavaScript"}
+{"label":"SKILL","pattern":"js"}
+{"label":"SKILL","pattern":"es6"}
+{"label":"SKILL","pattern":"ecmascript"}
+{"label":"SKILL","pattern":"javascript es6"}
+{"label":"SKILL","pattern":"vanilla js"}
+{"label":"SKILL","pattern":"TypeScript"}
+{"label":"SKILL","pattern":"ts"}
+{"label":"SKILL","pattern":"typescript 4"}
+{"label":"SKILL","pattern":"typescript 5"}
+{"label":"SKILL","pattern":"Java"}
+{"label":"SKILL","pattern":"java 8"}
+{"label":"SKILL","pattern":"java 11"}
+{"label":"SKILL","pattern":"java 17"}
+{"label":"SKILL","pattern":"java 21"}
+{"label":"SKILL","pattern":"core java"}
+{"label":"SKILL","pattern":"j2ee"}
+{"label":"SKILL","pattern":"jvm"}
+{"label":"SKILL","pattern":"C++"}
+{"label":"SKILL","pattern":"cpp"}
+{"label":"SKILL","pattern":"c/c++"}
+{"label":"SKILL","pattern":"modern c++"}
+{"label":"SKILL","pattern":"c++11"}
+{"label":"SKILL","pattern":"c++14"}
+{"label":"SKILL","pattern":"c++17"}
+{"label":"SKILL","pattern":"c++20"}
+{"label":"SKILL","pattern":"C"}
+{"label":"SKILL","pattern":"c lang"}
+{"label":"SKILL","pattern":"ansi c"}
+{"label":"SKILL","pattern":"C#"}
+{"label":"SKILL","pattern":"c sharp"}
+{"label":"SKILL","pattern":"csharp"}
+{"label":"SKILL","pattern":".net c#"}
+{"label":"SKILL","pattern":"Go"}
+{"label":"SKILL","pattern":"golang"}
+{"label":"SKILL","pattern":"go lang"}
+{"label":"SKILL","pattern":"Rust"}
+{"label":"SKILL","pattern":"rust-lang"}
+{"label":"SKILL","pattern":"rustlang"}
+{"label":"SKILL","pattern":"SQL"}
+{"label":"SKILL","pattern":"structured query language"}
+{"label":"SKILL","pattern":"ansi sql"}
+{"label":"SKILL","pattern":"t-sql"}
+{"label":"SKILL","pattern":"pl/sql"}
+{"label":"SKILL","pattern":"R"}
+{"label":"SKILL","pattern":"r-lang"}
+{"label":"SKILL","pattern":"r language"}
+{"label":"SKILL","pattern":"r programming"}
+{"label":"SKILL","pattern":"PHP"}
+{"label":"SKILL","pattern":"php7"}
+{"label":"SKILL","pattern":"php8"}
+{"label":"SKILL","pattern":"Kotlin"}
+{"label":"SKILL","pattern":"kotlin android"}
+{"label":"SKILL","pattern":"Swift"}
+{"label":"SKILL","pattern":"swift 5"}
+{"label":"SKILL","pattern":"apple swift"}
+{"label":"SKILL","pattern":"HTML/CSS"}
+{"label":"SKILL","pattern":"html5"}
+{"label":"SKILL","pattern":"css3"}
+{"label":"SKILL","pattern":"html"}
+{"label":"SKILL","pattern":"css"}
+{"label":"SKILL","pattern":"html5/css3"}
+{"label":"SKILL","pattern":"styling"}
+{"label":"SKILL","pattern":"React"}
+{"label":"SKILL","pattern":"react.js"}
+{"label":"SKILL","pattern":"reactjs"}
+{"label":"SKILL","pattern":"react js"}
+{"label":"SKILL","pattern":"react 18"}
+{"label":"SKILL","pattern":"Next.js"}
+{"label":"SKILL","pattern":"nextjs"}
+{"label":"SKILL","pattern":"next js"}
+{"label":"SKILL","pattern":"next"}
+{"label":"SKILL","pattern":"Angular"}
+{"label":"SKILL","pattern":"angular.js"}
+{"label":"SKILL","pattern":"angularjs"}
+{"label":"SKILL","pattern":"angular 2+"}
+{"label":"SKILL","pattern":"angular io"}
+{"label":"SKILL","pattern":"Vue.js"}
+{"label":"SKILL","pattern":"vue"}
+{"label":"SKILL","pattern":"vuejs"}
+{"label":"SKILL","pattern":"vue 3"}
+{"label":"SKILL","pattern":"vue.js 3"}
+{"label":"SKILL","pattern":"Node.js"}
+{"label":"SKILL","pattern":"node"}
+{"label":"SKILL","pattern":"nodejs"}
+{"label":"SKILL","pattern":"node js"}
+{"label":"SKILL","pattern":"Express.js"}
+{"label":"SKILL","pattern":"express"}
+{"label":"SKILL","pattern":"expressjs"}
+{"label":"SKILL","pattern":"Django"}
+{"label":"SKILL","pattern":"django framework"}
+{"label":"SKILL","pattern":"django orm"}
+{"label":"SKILL","pattern":"django rest framework"}
+{"label":"SKILL","pattern":"drf"}
+{"label":"SKILL","pattern":"Flask"}
+{"label":"SKILL","pattern":"flask framework"}
+{"label":"SKILL","pattern":"flask-restful"}
+{"label":"SKILL","pattern":"FastAPI"}
+{"label":"SKILL","pattern":"fast api"}
+{"label":"SKILL","pattern":"fastapi framework"}
+{"label":"SKILL","pattern":"Spring Boot"}
+{"label":"SKILL","pattern":"springboot"}
+{"label":"SKILL","pattern":"spring-boot"}
+{"label":"SKILL","pattern":"spring framework"}
+{"label":"SKILL","pattern":"spring"}
+{"label":"SKILL","pattern":"Machine Learning"}
+{"label":"SKILL","pattern":"ml"}
+{"label":"SKILL","pattern":"machine-learning"}
+{"label":"SKILL","pattern":"statistical learning"}
+{"label":"SKILL","pattern":"supervised learning"}
+{"label":"SKILL","pattern":"unsupervised learning"}
+{"label":"SKILL","pattern":"Deep Learning"}
+{"label":"SKILL","pattern":"dl"}
+{"label":"SKILL","pattern":"deep neural networks"}
+{"label":"SKILL","pattern":"neural networks"}
+{"label":"SKILL","pattern":"dnn"}
+{"label":"SKILL","pattern":"ann"}
+{"label":"SKILL","pattern":"Natural Language Processing"}
+{"label":"SKILL","pattern":"nlp"}
+{"label":"SKILL","pattern":"computational linguistics"}
+{"label":"SKILL","pattern":"text processing"}
+{"label":"SKILL","pattern":"text mining"}
+{"label":"SKILL","pattern":"natural language understanding"}
+{"label":"SKILL","pattern":"nlu"}
+{"label":"SKILL","pattern":"Computer Vision"}
+{"label":"SKILL","pattern":"cv"}
+{"label":"SKILL","pattern":"image processing"}
+{"label":"SKILL","pattern":"visual computing"}
+{"label":"SKILL","pattern":"Large Language Models"}
+{"label":"SKILL","pattern":"llm"}
+{"label":"SKILL","pattern":"llms"}
+{"label":"SKILL","pattern":"generative ai"}
+{"label":"SKILL","pattern":"genai"}
+{"label":"SKILL","pattern":"foundation models"}
+{"label":"SKILL","pattern":"gpt"}
+{"label":"SKILL","pattern":"rag"}
+{"label":"SKILL","pattern":"PyTorch"}
+{"label":"SKILL","pattern":"torch"}
+{"label":"SKILL","pattern":"pytorch lightning"}
+{"label":"SKILL","pattern":"TensorFlow"}
+{"label":"SKILL","pattern":"tf"}
+{"label":"SKILL","pattern":"tf2"}
+{"label":"SKILL","pattern":"tensorflow 2"}
+{"label":"SKILL","pattern":"Scikit-Learn"}
+{"label":"SKILL","pattern":"sklearn"}
+{"label":"SKILL","pattern":"scikit learn"}
+{"label":"SKILL","pattern":"Pandas"}
+{"label":"SKILL","pattern":"pandas-dataframe"}
+{"label":"SKILL","pattern":"python pandas"}
+{"label":"SKILL","pattern":"NumPy"}
+{"label":"SKILL","pattern":"numpy array"}
+{"label":"SKILL","pattern":"np"}
+{"label":"SKILL","pattern":"spaCy"}
+{"label":"SKILL","pattern":"spacy nlp"}
+{"label":"SKILL","pattern":"NLTK"}
+{"label":"SKILL","pattern":"natural language toolkit"}
+{"label":"SKILL","pattern":"Hugging Face Transformers"}
+{"label":"SKILL","pattern":"huggingface"}
+{"label":"SKILL","pattern":"transformers"}
+{"label":"SKILL","pattern":"hf"}
+{"label":"SKILL","pattern":"hugging face"}
+{"label":"SKILL","pattern":"PostgreSQL"}
+{"label":"SKILL","pattern":"postgres"}
+{"label":"SKILL","pattern":"pgsql"}
+{"label":"SKILL","pattern":"psql"}
+{"label":"SKILL","pattern":"MySQL"}
+{"label":"SKILL","pattern":"my sql"}
+{"label":"SKILL","pattern":"mariadb"}
+{"label":"SKILL","pattern":"MongoDB"}
+{"label":"SKILL","pattern":"mongo"}
+{"label":"SKILL","pattern":"mongodb atlas"}
+{"label":"SKILL","pattern":"nosql mongodb"}
+{"label":"SKILL","pattern":"Redis"}
+{"label":"SKILL","pattern":"redis cache"}
+{"label":"SKILL","pattern":"redis in-memory"}
+{"label":"SKILL","pattern":"Amazon Web Services"}
+{"label":"SKILL","pattern":"aws"}
+{"label":"SKILL","pattern":"aws cloud"}
+{"label":"SKILL","pattern":"amazon cloud"}
+{"label":"SKILL","pattern":"amazon aws"}
+{"label":"SKILL","pattern":"Google Cloud Platform"}
+{"label":"SKILL","pattern":"gcp"}
+{"label":"SKILL","pattern":"google cloud"}
+{"label":"SKILL","pattern":"gcp cloud"}
+{"label":"SKILL","pattern":"Microsoft Azure"}
+{"label":"SKILL","pattern":"azure"}
+{"label":"SKILL","pattern":"azure cloud"}
+{"label":"SKILL","pattern":"ms azure"}
+{"label":"SKILL","pattern":"Docker"}
+{"label":"SKILL","pattern":"docker container"}
+{"label":"SKILL","pattern":"docker-compose"}
+{"label":"SKILL","pattern":"containerization"}
+{"label":"SKILL","pattern":"containers"}
+{"label":"SKILL","pattern":"Kubernetes"}
+{"label":"SKILL","pattern":"k8s"}
+{"label":"SKILL","pattern":"k8"}
+{"label":"SKILL","pattern":"kube"}
+{"label":"SKILL","pattern":"CI/CD"}
+{"label":"SKILL","pattern":"continuous integration"}
+{"label":"SKILL","pattern":"continuous delivery"}
+{"label":"SKILL","pattern":"continuous deployment"}
+{"label":"SKILL","pattern":"cicd"}
+{"label":"SKILL","pattern":"Git"}
+{"label":"SKILL","pattern":"git vcs"}
+{"label":"SKILL","pattern":"version control"}
+{"label":"SKILL","pattern":"github"}
+{"label":"SKILL","pattern":"gitlab"}
+{"label":"SKILL","pattern":"bitbucket"}
+{"label":"SKILL","pattern":"Apache Spark"}
+{"label":"SKILL","pattern":"spark"}
+{"label":"SKILL","pattern":"pyspark"}
+{"label":"SKILL","pattern":"spark sql"}
+{"label":"SKILL","pattern":"spark streaming"}
+{"label":"SKILL","pattern":"Apache Kafka"}
+{"label":"SKILL","pattern":"kafka"}
+{"label":"SKILL","pattern":"event streaming"}
+{"label":"SKILL","pattern":"kafka streams"}
+{"label":"SKILL","pattern":"Agile Methodologies"}
+{"label":"SKILL","pattern":"agile"}
+{"label":"SKILL","pattern":"scrum"}
+{"label":"SKILL","pattern":"kanban"}
+{"label":"SKILL","pattern":"sprint planning"}
+{"label":"SKILL","pattern":"agile development"}
+{"label":"SKILL","pattern":"RESTful APIs"}
+{"label":"SKILL","pattern":"rest api"}
+{"label":"SKILL","pattern":"rest apis"}
+{"label":"SKILL","pattern":"restful api"}
+{"label":"SKILL","pattern":"rest services"}
+{"label":"SKILL","pattern":"web apis"}
+{"label":"SKILL","pattern":"json api"}
+{"label":"SKILL","pattern":"GraphQL"}
+{"label":"SKILL","pattern":"graph ql"}
+{"label":"SKILL","pattern":"apollo graphql"}
+{"label":"SKILL","pattern":"Terraform"}
+{"label":"SKILL","pattern":"hashicorp terraform"}
+{"label":"SKILL","pattern":"iac"}
+{"label":"SKILL","pattern":"infrastructure as code"}
+{"label":"DEGREE","pattern":"Bachelor of Science"}
+{"label":"DEGREE","pattern":"B.S."}
+{"label":"DEGREE","pattern":"BS"}
+{"label":"DEGREE","pattern":"Bachelor of Arts"}
+{"label":"DEGREE","pattern":"B.A."}
+{"label":"DEGREE","pattern":"BA"}
+{"label":"DEGREE","pattern":"Master of Science"}
+{"label":"DEGREE","pattern":"M.S."}
+{"label":"DEGREE","pattern":"MS"}
+{"label":"DEGREE","pattern":"Master of Arts"}
+{"label":"DEGREE","pattern":"M.A."}
+{"label":"DEGREE","pattern":"MA"}
+{"label":"DEGREE","pattern":"Master of Business Administration"}
+{"label":"DEGREE","pattern":"MBA"}
+{"label":"DEGREE","pattern":"Doctor of Philosophy"}
+{"label":"DEGREE","pattern":"Ph.D."}
+{"label":"DEGREE","pattern":"PhD"}
+{"label":"DEGREE","pattern":"Associate of Science"}
+{"label":"DEGREE","pattern":"B.Tech"}
+{"label":"DEGREE","pattern":"M.Tech"}
+{"label":"DEGREE","pattern":"B.E."}
+{"label":"DEGREE","pattern":"M.E."}
+{"label":"DEGREE","pattern":"BCA"}
+{"label":"DEGREE","pattern":"MCA"}
+{"label":"DEGREE","pattern":"Bachelor of Engineering"}
+{"label":"DEGREE","pattern":"Master of Engineering"}
+{"label":"JOB_TITLE","pattern":"Software Engineer"}
+{"label":"JOB_TITLE","pattern":"Senior Software Engineer"}
+{"label":"JOB_TITLE","pattern":"Full Stack Developer"}
+{"label":"JOB_TITLE","pattern":"Backend Developer"}
+{"label":"JOB_TITLE","pattern":"Frontend Developer"}
+{"label":"JOB_TITLE","pattern":"Data Scientist"}
+{"label":"JOB_TITLE","pattern":"Machine Learning Engineer"}
+{"label":"JOB_TITLE","pattern":"DevOps Engineer"}
+{"label":"JOB_TITLE","pattern":"Cloud Architect"}
+{"label":"JOB_TITLE","pattern":"Product Manager"}
+{"label":"JOB_TITLE","pattern":"Project Manager"}
+{"label":"JOB_TITLE","pattern":"Business Analyst"}
+{"label":"JOB_TITLE","pattern":"QA Engineer"}
+{"label":"JOB_TITLE","pattern":"Database Administrator"}
+{"label":"JOB_TITLE","pattern":"System Administrator"}
+{"label":"JOB_TITLE","pattern":"Solutions Architect"}
+{"label":"JOB_TITLE","pattern":"Data Engineer"}
+{"label":"JOB_TITLE","pattern":"AI Researcher"}
+{"label":"JOB_TITLE","pattern":"IT Director"}
+{"label":"JOB_TITLE","pattern":"General Manager"}
+{"label":"CERTIFICATION","pattern":"AWS Certified Solutions Architect"}
+{"label":"CERTIFICATION","pattern":"AWS Certified Developer"}
+{"label":"CERTIFICATION","pattern":"CISSP"}
+{"label":"CERTIFICATION","pattern":"PMP"}
+{"label":"CERTIFICATION","pattern":"Certified Scrum Master"}
+{"label":"CERTIFICATION","pattern":"CSM"}
+{"label":"CERTIFICATION","pattern":"CompTIA Security+"}
+{"label":"CERTIFICATION","pattern":"Google Cloud Certified"}
+{"label":"CERTIFICATION","pattern":"Azure Fundamentals"}
+{"label":"CERTIFICATION","pattern":"Azure Solutions Architect"}
+{"label":"CERTIFICATION","pattern":"CKA"}
+{"label":"CERTIFICATION","pattern":"CKAD"}

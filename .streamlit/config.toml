@@ -1,0 +1,17 @@
+[theme]
+base = "light"
+primaryColor = "#2563EB"
+backgroundColor = "#F7F9FC"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#172033"
+font = "sans serif"
+borderColor = "#E5EAF1"
+baseRadius = "0.75rem"
+buttonRadius = "0.6rem"
+showWidgetBorder = true
+
+[server]
+# The app is run locally through an embedded preview. Its upload requests do
+# not carry Streamlit's XSRF cookie, so the default protection rejects valid
+# `st.file_uploader` requests with HTTP 403 before the app receives the file.
+enableXsrfProtection = false

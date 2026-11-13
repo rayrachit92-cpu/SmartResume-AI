@@ -1,0 +1,445 @@
+{
+  "skills": [
+    {
+      "id": "SKILL-001",
+      "canonical_name": "Python",
+      "category": "Programming Languages",
+      "aliases": ["py", "python3", "python 3", "python2", "cpython"],
+      "related_concepts": ["Django", "Flask", "FastAPI", "NumPy", "Pandas", "PyTorch"],
+      "external_id": "Q28865"
+    },
+    {
+      "id": "SKILL-002",
+      "canonical_name": "JavaScript",
+      "category": "Programming Languages",
+      "aliases": ["js", "es6", "ecmascript", "javascript es6", "vanilla js"],
+      "related_concepts": ["TypeScript", "Node.js", "React", "Vue", "Angular"],
+      "external_id": "Q2005"
+    },
+    {
+      "id": "SKILL-003",
+      "canonical_name": "TypeScript",
+      "category": "Programming Languages",
+      "aliases": ["ts", "typescript 4", "typescript 5"],
+      "related_concepts": ["JavaScript", "Node.js", "Angular", "React"],
+      "external_id": "Q35061"
+    },
+    {
+      "id": "SKILL-004",
+      "canonical_name": "Java",
+      "category": "Programming Languages",
+      "aliases": ["java 8", "java 11", "java 17", "java 21", "core java", "j2ee", "jvm"],
+      "related_concepts": ["Spring Boot", "Hibernate", "Kotlin", "Maven", "Gradle"],
+      "external_id": "Q251"
+    },
+    {
+      "id": "SKILL-005",
+      "canonical_name": "C++",
+      "category": "Programming Languages",
+      "aliases": ["cpp", "c/c++", "modern c++", "c++11", "c++14", "c++17", "c++20"],
+      "related_concepts": ["C", "STL", "Boost", "CUDA", "Embedded Systems"],
+      "external_id": "Q2407"
+    },
+    {
+      "id": "SKILL-006",
+      "canonical_name": "C",
+      "category": "Programming Languages",
+      "aliases": ["c lang", "ansi c"],
+      "related_concepts": ["C++", "Embedded C", "Linux Kernel", "Operating Systems"],
+      "external_id": "Q15777"
+    },
+    {
+      "id": "SKILL-007",
+      "canonical_name": "C#",
+      "category": "Programming Languages",
+      "aliases": ["c sharp", "csharp", ".net c#"],
+      "related_concepts": [".NET Core", "ASP.NET", "Unity", "Entity Framework"],
+      "external_id": "Q2381"
+    },
+    {
+      "id": "SKILL-008",
+      "canonical_name": "Go",
+      "category": "Programming Languages",
+      "aliases": ["golang", "go lang"],
+      "related_concepts": ["Microservices", "Docker", "Kubernetes", "gRPC"],
+      "external_id": "Q1358"
+    },
+    {
+      "id": "SKILL-009",
+      "canonical_name": "Rust",
+      "category": "Programming Languages",
+      "aliases": ["rust-lang", "rustlang"],
+      "related_concepts": ["WebAssembly", "Systems Programming", "Concurrency", "Cargo"],
+      "external_id": "Q575650"
+    },
+    {
+      "id": "SKILL-010",
+      "canonical_name": "SQL",
+      "category": "Programming Languages",
+      "aliases": ["structured query language", "ansi sql", "t-sql", "pl/sql"],
+      "related_concepts": ["PostgreSQL", "MySQL", "Database Design", "Indexing"],
+      "external_id": "Q47607"
+    },
+    {
+      "id": "SKILL-011",
+      "canonical_name": "R",
+      "category": "Programming Languages",
+      "aliases": ["r-lang", "r language", "r programming"],
+      "related_concepts": ["RStudio", "ggplot2", "Statistics", "Data Analysis"],
+      "external_id": "Q206904"
+    },
+    {
+      "id": "SKILL-012",
+      "canonical_name": "PHP",
+      "category": "Programming Languages",
+      "aliases": ["php7", "php8"],
+      "related_concepts": ["Laravel", "Symfony", "WordPress", "MySQL"],
+      "external_id": "Q59"
+    },
+    {
+      "id": "SKILL-013",
+      "canonical_name": "Kotlin",
+      "category": "Programming Languages",
+      "aliases": ["kotlin android"],
+      "related_concepts": ["Java", "Android Development", "Coroutines"],
+      "external_id": "Q3816549"
+    },
+    {
+      "id": "SKILL-014",
+      "canonical_name": "Swift",
+      "category": "Programming Languages",
+      "aliases": ["swift 5", "apple swift"],
+      "related_concepts": ["iOS Development", "SwiftUI", "Xcode", "Objective-C"],
+      "external_id": "Q17118377"
+    },
+    {
+      "id": "SKILL-015",
+      "canonical_name": "HTML/CSS",
+      "category": "Frontend Technologies",
+      "aliases": ["html5", "css3", "html", "css", "html5/css3", "styling"],
+      "related_concepts": ["Tailwind CSS", "Bootstrap", "Sass", "Responsive Design"],
+      "external_id": "Q8811"
+    },
+    {
+      "id": "SKILL-016",
+      "canonical_name": "React",
+      "category": "Web Frameworks & Libraries",
+      "aliases": ["react.js", "reactjs", "react js", "react 18"],
+      "related_concepts": ["Next.js", "Redux", "Hooks", "JavaScript", "TypeScript"],
+      "external_id": "Q19399674"
+    },
+    {
+      "id": "SKILL-017",
+      "canonical_name": "Next.js",
+      "category": "Web Frameworks & Libraries",
+      "aliases": ["nextjs", "next js", "next"],
+      "related_concepts": ["React", "SSR", "Vercel", "TypeScript"],
+      "external_id": "Q65089929"
+    },
+    {
+      "id": "SKILL-018",
+      "canonical_name": "Angular",
+      "category": "Web Frameworks & Libraries",
+      "aliases": ["angular.js", "angularjs", "angular 2+", "angular io"],
+      "related_concepts": ["TypeScript", "RxJS", "Frontend Architecture"],
+      "external_id": "Q21665423"
+    },
+    {
+      "id": "SKILL-019",
+      "canonical_name": "Vue.js",
+      "category": "Web Frameworks & Libraries",
+      "aliases": ["vue", "vuejs", "vue 3", "vue.js 3"],
+      "related_concepts": ["Nuxt.js", "Vuex", "Pinia", "JavaScript"],
+      "external_id": "Q23758237"
+    },
+    {
+      "id": "SKILL-020",
+      "canonical_name": "Node.js",
+      "category": "Web Frameworks & Libraries",
+      "aliases": ["node", "nodejs", "node js"],
+      "related_concepts": ["Express.js", "NestJS", "JavaScript", "NPM"],
+      "external_id": "Q756100"
+    },
+    {
+      "id": "SKILL-021",
+      "canonical_name": "Express.js",
+      "category": "Web Frameworks & Libraries",
+      "aliases": ["express", "expressjs"],
+      "related_concepts": ["Node.js", "REST APIs", "Middleware"],
+      "external_id": "Q19363063"
+    },
+    {
+      "id": "SKILL-022",
+      "canonical_name": "Django",
+      "category": "Web Frameworks & Libraries",
+      "aliases": ["django framework", "django orm", "django rest framework", "drf"],
+      "related_concepts": ["Python", "PostgreSQL", "REST APIs"],
+      "external_id": "Q93288"
+    },
+    {
+      "id": "SKILL-023",
+      "canonical_name": "Flask",
+      "category": "Web Frameworks & Libraries",
+      "aliases": ["flask framework", "flask-restful"],
+      "related_concepts": ["Python", "Jinja2", "REST APIs", "Microservices"],
+      "external_id": "Q1378222"
+    },
+    {
+      "id": "SKILL-024",
+      "canonical_name": "FastAPI",
+      "category": "Web Frameworks & Libraries",
+      "aliases": ["fast api", "fastapi framework"],
+      "related_concepts": ["Python", "Pydantic", "Starlette", "Asynchronous Programming", "Swagger"],
+      "external_id": "Q105674396"
+    },
+    {
+      "id": "SKILL-025",
+      "canonical_name": "Spring Boot",
+      "category": "Web Frameworks & Libraries",
+      "aliases": ["springboot", "spring-boot", "spring framework", "spring"],
+      "related_concepts": ["Java", "Microservices", "Hibernate", "REST APIs"],
+      "external_id": "Q28136255"
+    },
+    {
+      "id": "SKILL-026",
+      "canonical_name": "Machine Learning",
+      "category": "AI & Data Science",
+      "aliases": ["ml", "machine-learning", "statistical learning", "supervised learning", "unsupervised learning"],
+      "related_concepts": ["Deep Learning", "Scikit-learn", "Data Science", "Predictive Modeling"],
+      "external_id": "Q2539"
+    },
+    {
+      "id": "SKILL-027",
+      "canonical_name": "Deep Learning",
+      "category": "AI & Data Science",
+      "aliases": ["dl", "deep neural networks", "neural networks", "dnn", "ann"],
+      "related_concepts": ["PyTorch", "TensorFlow", "CNN", "RNN", "Transformers"],
+      "external_id": "Q197536"
+    },
+    {
+      "id": "SKILL-028",
+      "canonical_name": "Natural Language Processing",
+      "category": "AI & Data Science",
+      "aliases": ["nlp", "computational linguistics", "text processing", "text mining", "natural language understanding", "nlu"],
+      "related_concepts": ["spaCy", "NLTK", "Transformers", "BERT", "Large Language Models", "NER"],
+      "external_id": "Q30642"
+    },
+    {
+      "id": "SKILL-029",
+      "canonical_name": "Computer Vision",
+      "category": "AI & Data Science",
+      "aliases": ["cv", "image processing", "visual computing"],
+      "related_concepts": ["OpenCV", "CNN", "YOLO", "Object Detection", "Image Segmentation"],
+      "external_id": "Q208170"
+    },
+    {
+      "id": "SKILL-030",
+      "canonical_name": "Large Language Models",
+      "category": "AI & Data Science",
+      "aliases": ["llm", "llms", "generative ai", "genai", "foundation models", "gpt", "rag"],
+      "related_concepts": ["LangChain", "LlamaIndex", "Prompt Engineering", "Fine-tuning", "Transformers"],
+      "external_id": "Q115305900"
+    },
+    {
+      "id": "SKILL-031",
+      "canonical_name": "PyTorch",
+      "category": "AI & Data Science",
+      "aliases": ["torch", "pytorch lightning"],
+      "related_concepts": ["Python", "Deep Learning", "TensorFlow", "CUDA"],
+      "external_id": "Q47509047"
+    },
+    {
+      "id": "SKILL-032",
+      "canonical_name": "TensorFlow",
+      "category": "AI & Data Science",
+      "aliases": ["tf", "tf2", "tensorflow 2"],
+      "related_concepts": ["Keras", "Deep Learning", "PyTorch", "TensorBoard"],
+      "external_id": "Q21445778"
+    },
+    {
+      "id": "SKILL-033",
+      "canonical_name": "Scikit-Learn",
+      "category": "AI & Data Science",
+      "aliases": ["sklearn", "scikit learn"],
+      "related_concepts": ["Python", "Machine Learning", "Random Forest", "SVM", "PCA"],
+      "external_id": "Q1859664"
+    },
+    {
+      "id": "SKILL-034",
+      "canonical_name": "Pandas",
+      "category": "AI & Data Science",
+      "aliases": ["pandas-dataframe", "python pandas"],
+      "related_concepts": ["NumPy", "Data Wrangling", "Data Analysis", "Python"],
+      "external_id": "Q15982890"
+    },
+    {
+      "id": "SKILL-035",
+      "canonical_name": "NumPy",
+      "category": "AI & Data Science",
+      "aliases": ["numpy array", "np"],
+      "related_concepts": ["SciPy", "Pandas", "Linear Algebra", "Python"],
+      "external_id": "Q197520"
+    },
+    {
+      "id": "SKILL-036",
+      "canonical_name": "spaCy",
+      "category": "AI & Data Science",
+      "aliases": ["spacy nlp"],
+      "related_concepts": ["NLTK", "Named Entity Recognition", "Tokenization", "NLP"],
+      "external_id": "Q28456209"
+    },
+    {
+      "id": "SKILL-037",
+      "canonical_name": "NLTK",
+      "category": "AI & Data Science",
+      "aliases": ["natural language toolkit"],
+      "related_concepts": ["spaCy", "Tokenization", "Stemming", "Lemmatization"],
+      "external_id": "Q7021703"
+    },
+    {
+      "id": "SKILL-038",
+      "canonical_name": "Hugging Face Transformers",
+      "category": "AI & Data Science",
+      "aliases": ["huggingface", "transformers", "hf", "hugging face"],
+      "related_concepts": ["BERT", "RoBERTa", "T5", "LLMs", "PyTorch"],
+      "external_id": "Q108740523"
+    },
+    {
+      "id": "SKILL-039",
+      "canonical_name": "PostgreSQL",
+      "category": "Databases & Storage",
+      "aliases": ["postgres", "pgsql", "psql"],
+      "related_concepts": ["SQL", "Relational Database", "ACID", "Database Indexing"],
+      "external_id": "Q192490"
+    },
+    {
+      "id": "SKILL-040",
+      "canonical_name": "MySQL",
+      "category": "Databases & Storage",
+      "aliases": ["my sql", "mariadb"],
+      "related_concepts": ["SQL", "Relational Database", "InnoDB"],
+      "external_id": "Q830"
+    },
+    {
+      "id": "SKILL-041",
+      "canonical_name": "MongoDB",
+      "category": "Databases & Storage",
+      "aliases": ["mongo", "mongodb atlas", "nosql mongodb"],
+      "related_concepts": ["NoSQL", "Document Store", "JSON", "Mongoose"],
+      "external_id": "Q1165204"
+    },
+    {
+      "id": "SKILL-042",
+      "canonical_name": "Redis",
+      "category": "Databases & Storage",
+      "aliases": ["redis cache", "redis in-memory"],
+      "related_concepts": ["Caching", "In-Memory Database", "Pub/Sub", "Key-Value Store"],
+      "external_id": "Q1165495"
+    },
+    {
+      "id": "SKILL-043",
+      "canonical_name": "Amazon Web Services",
+      "category": "Cloud & DevOps",
+      "aliases": ["aws", "aws cloud", "amazon cloud", "amazon aws"],
+      "related_concepts": ["EC2", "S3", "Lambda", "IAM", "CloudFormation"],
+      "external_id": "Q456157"
+    },
+    {
+      "id": "SKILL-044",
+      "canonical_name": "Google Cloud Platform",
+      "category": "Cloud & DevOps",
+      "aliases": ["gcp", "google cloud", "gcp cloud"],
+      "related_concepts": ["BigQuery", "Compute Engine", "GKE", "Cloud Functions"],
+      "external_id": "Q115049"
+    },
+    {
+      "id": "SKILL-045",
+      "canonical_name": "Microsoft Azure",
+      "category": "Cloud & DevOps",
+      "aliases": ["azure", "azure cloud", "ms azure"],
+      "related_concepts": ["Azure DevOps", "Azure VMs", "Blob Storage", "Cosmos DB"],
+      "external_id": "Q725503"
+    },
+    {
+      "id": "SKILL-046",
+      "canonical_name": "Docker",
+      "category": "Cloud & DevOps",
+      "aliases": ["docker container", "docker-compose", "containerization", "containers"],
+      "related_concepts": ["Kubernetes", "DevOps", "Microservices", "CI/CD"],
+      "external_id": "Q16709841"
+    },
+    {
+      "id": "SKILL-047",
+      "canonical_name": "Kubernetes",
+      "category": "Cloud & DevOps",
+      "aliases": ["k8s", "k8", "kube"],
+      "related_concepts": ["Docker", "Container Orchestration", "Helm", "Cloud Native"],
+      "external_id": "Q22661303"
+    },
+    {
+      "id": "SKILL-048",
+      "canonical_name": "CI/CD",
+      "category": "Cloud & DevOps",
+      "aliases": ["continuous integration", "continuous delivery", "continuous deployment", "cicd"],
+      "related_concepts": ["GitHub Actions", "Jenkins", "GitLab CI", "Automated Testing"],
+      "external_id": "Q5165507"
+    },
+    {
+      "id": "SKILL-049",
+      "canonical_name": "Git",
+      "category": "Developer Tools",
+      "aliases": ["git vcs", "version control", "github", "gitlab", "bitbucket"],
+      "related_concepts": ["Branching", "Pull Requests", "Code Review", "DevOps"],
+      "external_id": "Q186055"
+    },
+    {
+      "id": "SKILL-050",
+      "canonical_name": "Apache Spark",
+      "category": "Big Data",
+      "aliases": ["spark", "pyspark", "spark sql", "spark streaming"],
+      "related_concepts": ["Big Data", "Hadoop", "Data Engineering", "Distributed Computing"],
+      "external_id": "Q15617942"
+    },
+    {
+      "id": "SKILL-051",
+      "canonical_name": "Apache Kafka",
+      "category": "Big Data",
+      "aliases": ["kafka", "event streaming", "kafka streams"],
+      "related_concepts": ["Pub/Sub", "Microservices", "Event-Driven Architecture", "Big Data"],
+      "external_id": "Q14915003"
+    },
+    {
+      "id": "SKILL-052",
+      "canonical_name": "Agile Methodologies",
+      "category": "Methodologies & Soft Skills",
+      "aliases": ["agile", "scrum", "kanban", "sprint planning", "agile development"],
+      "related_concepts": ["Jira", "Project Management", "Team Collaboration"],
+      "external_id": "Q170087"
+    },
+    {
+      "id": "SKILL-053",
+      "canonical_name": "RESTful APIs",
+      "category": "Software Architecture",
+      "aliases": ["rest api", "rest apis", "restful api", "rest services", "web apis", "json api"],
+      "related_concepts": ["HTTP", "GraphQL", "Microservices", "API Design"],
+      "external_id": "Q208163"
+    },
+    {
+      "id": "SKILL-054",
+      "canonical_name": "GraphQL",
+      "category": "Software Architecture",
+      "aliases": ["graph ql", "apollo graphql"],
+      "related_concepts": ["RESTful APIs", "Apollo", "Schema Design"],
+      "external_id": "Q25110837"
+    },
+    {
+      "id": "SKILL-055",
+      "canonical_name": "Terraform",
+      "category": "Cloud & DevOps",
+      "aliases": ["hashicorp terraform", "iac", "infrastructure as code"],
+      "related_concepts": ["AWS", "Cloud Automation", "DevOps"],
+      "external_id": "Q28456209"
+    }
+  ]
+}
+

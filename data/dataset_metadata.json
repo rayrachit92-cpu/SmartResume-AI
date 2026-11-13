@@ -1,0 +1,38 @@
+{
+  "primary_dataset": {
+    "name": "Resume NER Training Dataset",
+    "source": "https://huggingface.co/datasets/yashpwr/resume-ner-training-data",
+    "total_examples": 22855,
+    "license": "MIT",
+    "format": "Conversational instructions + resume body + professional summaries",
+    "domain": "Cross-industry Resume Intelligence"
+  },
+  "evaluation_dataset": {
+    "name": "Dotin Resume NER Annotations",
+    "source": "https://github.com/dotin-inc/resume-dataset-NER-annotations",
+    "total_annotated_examples": 360,
+    "license": "CC0-1.0 Universal",
+    "format": "Character-span labeled entities",
+    "splits": {
+      "train": 288,
+      "validation": 36,
+      "test": 36,
+      "split_ratio": "80/10/10",
+      "random_seed": 42,
+      "data_leakage": 0
+    },
+    "entity_categories": {
+      "PERSON": 500,
+      "LOCATION": 1731,
+      "EMAIL": 407,
+      "JOB_TITLE": 2113,
+      "SKILL": 8432,
+      "ORGANIZATION": 1405,
+      "EXPERIENCE": 1417,
+      "DEGREE": 822,
+      "UNIVERSITY": 935,
+      "DATE": 462
+    },
+    "total_entities_annotated": 18224
+  }
+}
